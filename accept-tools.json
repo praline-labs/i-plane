@@ -1,8 +1,8 @@
 {
   "schema": "for-plane/accept-tools-pin@1",
-  "coreVersion": "0.4.3",
+  "coreVersion": "0.4.4",
   "tools": {
-    "archive": "for-plane-tools-0.4.3.tar.gz",
-    "sha256": "2650fddf314ac39ab6e53be5ec6f7035b7e0508f1bc07b362e0f26273c0412e5"
+    "archive": "for-plane-tools-0.4.4.tar.gz",
+    "sha256": "b4c99965ae5b4825b7c8edf7aa874124eae229ecff6b1ed3c29267eb14fa18ac"
   }
 }
